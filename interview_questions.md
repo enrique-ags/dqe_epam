@@ -1,4 +1,4 @@
-**DBi testing:**
+**Bi testing:**
 
 do you have experience testing any Business intelligence System?
 
