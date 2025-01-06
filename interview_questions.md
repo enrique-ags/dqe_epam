@@ -52,6 +52,7 @@ Each of these languages plays a crucial role in database management and operatio
 
 **DWH Questions**
 
+### What is Star and SnowFlake Schemas? 
 When interviewing candidates for a role involving Data Warehouse (DWH) knowledge, it's important to craft questions that effectively assess their understanding of key concepts, practical skills, and their ability to solve problems specific to data warehousing. Here are five questions that can help gauge a candidate's DWH expertise:
 
 ### 1. Can you explain the different types of data warehouse architectures? How do you decide which architecture to use for a specific scenario?
