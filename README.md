@@ -23,6 +23,4 @@ We encourage contributions from the community! Whether you're fixing a bug, addi
 
 This project is licensed under the terms of the MIT license.
 
----
 
-Feel free to adjust the contents according to the specific tools, scripts, and aims of the actual repository. This template should provide a good starting point for organizing and describing a data quality-related Git repository.
