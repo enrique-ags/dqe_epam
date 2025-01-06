@@ -109,7 +109,6 @@ Ensuring data quality in a data warehouse involves several strategies:
 - **Audit Trails** to track data lineage and modifications.
 
 Tools like Informatica, Datastage, and custom SQL scripts are commonly used for these tasks, depending on the specific data processing needs and the technology stack of the organization.
-
 ### 5. Discuss the impact of emerging technologies like cloud computing and big data on traditional data warehousing strategies.
 **Answer:**
 Emerging technologies like cloud computing and big data frameworks have significantly influenced traditional data warehousing strategies by:
@@ -186,5 +185,8 @@ do u know concepts of yarn? lambda? spark?
 do u remember how to create a temp view in pyspark?
 do u know what hdfs is?
 any cloud provider experience?
+
+do u remember what are the data quality measures?
+
 
 
