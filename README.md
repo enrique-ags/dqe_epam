@@ -17,7 +17,7 @@ Data quality refers to the condition of a set of values of qualitative or quanti
 
 ## How to Contribute?
 
-We encourage contributions from the community! Whether you're fixing a bug, adding a new feature, or improving the documentation, your help is appreciated. Please see the `CONTRIBUTING.md` file for more details on how to contribute to this repository.
+We encourage contributions from the community! Whether you're fixing a bug, adding a new feature, or improving the documentation, your help is appreciated. Please send email to enrique.davila@gmail.com; enrique_davila@epam.com
 
 ## License
 
