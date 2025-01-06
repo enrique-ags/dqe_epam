@@ -188,5 +188,5 @@ any cloud provider experience?
 
 do u remember what are the data quality measures?
 
-
+Implement a python function that sums 2 numbers
 
