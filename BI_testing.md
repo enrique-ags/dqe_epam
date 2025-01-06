@@ -86,7 +86,7 @@ Advanced candidates for BI (Business Intelligence) testing roles are expected to
 An advanced candidate for BI testing is expected not only to have a strong technical grasp but also to be able to understand the business context and impact of the BI solutions they are testing. This breadth and depth of knowledge enable them to ensure that the BI systems are not only technically sound but also deliver real business value.
 
 
-**Expected Knowledge from an Advanced Candidate in BI Testing**
+**Expected Knowledge from an intermediate Candidate in BI Testing**
 
 For an intermediate candidate in BI (Business Intelligence) testing, certain foundational skills and knowledge are expected that bridge the gap between basic familiarity and expert mastery. These expectations include both technical proficiencies and an understanding of business contexts, as outlined below:
 
