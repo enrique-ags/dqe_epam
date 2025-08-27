@@ -39,11 +39,7 @@ summation_df.show()
 spark.stop()
 ```
 
----
 
-Thank you for the additional details! I’ll refine the second challenge accordingly and provide the SQL queries as well as a 10-row sample that fits your requirements.
-
----
 
 ### Refined Challenge 2
 This challenge involves analyzing a table named `expenses` using SQL:
@@ -283,4 +279,3 @@ CROSS JOIN Departments d;
 - **LEFT JOIN:** Ensures that all rows from the left table are included, even if they do not have a match in the right table.
 - **CROSS JOIN:** Produces a Cartesian product, leading to `m × n` rows where `m` is the number of rows in the left table and `n` is the number of rows in the right table.
 
-Feel free to ask if you’d like further clarification or examples!
