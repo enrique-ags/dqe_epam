@@ -4,7 +4,7 @@ Here are the two challenges you requested, described in English, along with thei
 
 ### Challenge 1: PySpark Challenge
 1. Read a CSV file named `expenses.csv` into a PySpark DataFrame.
-2. Rename a specific column in the DataFrame from gasyo to expense.
+2. Rename a specific column in the DataFrame from gasto to expense.
 3. Print the schema of the DataFrame to display the data types.
 4. Perform a summation of the `gasto` column grouped by `ciudad`.
 
